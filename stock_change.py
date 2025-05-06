@@ -2,7 +2,7 @@ from IPython.display import Image, display
 import autogen
 from autogen.coding import LocalCommandLineCodeExecutor
 
-llm_config = {"model": "gpt-4-turbo", "api_key": "sk-proj-O6wkpZmCHZqyLWeksHolT3BlbkFJZiZHfHzH5l3RIFqUaeSq"}
+llm_config = {"model": "gpt-4-turbo", "api_key": "YOUR_API_KEY"}
 
 # create an AssistantAgent named "assistant"
 assistant = autogen.AssistantAgent(
