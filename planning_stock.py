@@ -1,7 +1,7 @@
 from autogen import ConversableAgent, AssistantAgent
 
 llm_config={"model": "gpt-4-turbo"}
-OPENAI_API_KEY = "sk-proj-O6wkpZmCHZqyLWeksHolT3BlbkFJZiZHfHzH5l3RIFqUaeSq"
+OPENAI_API_KEY = "YOUR_API_KEY"
 
 
 
